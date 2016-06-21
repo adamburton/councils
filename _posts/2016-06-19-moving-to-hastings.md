@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Moving to Hastings
+permalink: moving-to-hastings
 ---
 
 ### Moving to Hastings
