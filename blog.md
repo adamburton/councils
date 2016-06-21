@@ -1,5 +1,6 @@
 ---
 title: blog
+layout: page
 ---
 
 <ul>
