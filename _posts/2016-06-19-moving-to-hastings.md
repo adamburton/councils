@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moving to Hastings
-permalink: moving-to-hastings
+permalink: councils/moving-to-hastings
 ---
 
 ### Moving to Hastings
