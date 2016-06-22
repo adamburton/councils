@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moving to Hastings
-permalink: councils/blog/moving-to-hastings
+
 ---
 
 In July and August of 2016 I will be moving to St. Leonards / Hastings (I do not know what to call it yet). I am moving from South London with my girlfriend Carla and our son Eben. We will be renting a flat on Kenilworth Road. I will be commuting to London for work four or five days a week. Carla will be commuting to London for work one or two days a week. Eben will be going to nursery a few days a week.
